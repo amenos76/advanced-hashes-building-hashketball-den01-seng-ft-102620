@@ -99,4 +99,5 @@ def game_hash
                            :slam_dunks => ""}]
   }
 }
+}
 end
