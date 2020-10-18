@@ -2,7 +2,7 @@ require 'pry'
 
 def game_hash
   basketball_info = {
-    :home => {}
+    :home => {},
     :away => {}
   }
 end
